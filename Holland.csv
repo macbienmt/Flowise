@@ -1,0 +1,60 @@
+﻿id,group,question
+1,R,"Sửa chữa những đồ vật bị hỏng (xe đạp, quạt điện...)."
+2,R,Làm việc ngoài trời hơn là ngồi trong phòng học.
+3,R,"Tham gia các hoạt động lao động như trồng cây, làm vườn."
+4,R,"Thực hiện tháo lắp, lắp ráp các đồ chơi, máy móc nhỏ hoặc lắp ráp xe mô hình."
+5,R,"Tham gia các môn thể thao, vận động."
+6,R,Học các môn có thí nghiệm thực hành.
+7,R,Tìm hiểu cách vận hành của máy móc.
+8,R,Tự tay sửa đồ dùng gia đình.
+9,R,"Làm thủ công, chế tạo đồ dùng."
+10,I,Tìm hiểu nguyên nhân của các hiện tượng tự nhiên.
+11,I,"Thấy hứng thú khi làm thí nghiệm trong phòng thí nghiệm Hóa, Vật Lý."
+12,I,Đọc sách hoặc xem video về khoa học.
+13,I,Tìm lời giải cho những bài toán khó.
+14,I,"Quan tâm đến các môn Toán, Lý, Hóa, Sinh."
+15,I,Khám phá vì sao sự việc lại xảy ra.
+16,I,"Phân tích số liệu, bảng biểu."
+17,I,Khi suy nghĩ logic để giải quyết vấn đề.
+18,I,"Tìm hiểu nguồn gốc của một dịch bệnh, nguồn gốc loài người, v.v"
+19,I,Đọc các bài báo về ảnh hưởng của AI (trí tuệ nhân tạo) lên nghề nghiệp tương lai
+20,A,"Vẽ tranh, tô màu hoặc thiết kế các đạo cụ sân khấu hóa"
+21,A,"Viết kịch bản, truyện ngắn, thơ hoặc nhật ký."
+22,A,"Nghe nhạc, hát hoặc chơi nhạc cụ."
+23,A,Diễn kịch hoặc đóng phim trong sân khấu hóa tác phẩm văn nghệ
+24,A,Chụp ảnh hoặc quay video.
+25,A,Trang trí lớp học hoặc căn phòng của mình thật đẹp.
+26,A,"Công việc sáng tạo, không gò bó."
+27,A,"Tham gia CLB văn nghệ, nghệ thuật."
+28,A,"Phối đồ, thời trang theo ý mình."
+29,A,"Thiết kế Poster, làm video, Thuyết trình trên phần mềm Canvas"
+30,S,"Sẵn sàng giúp thầy cô, bạn bè khi thấy họ cần"
+31,S,Tham gia hoạt động tình nguyện.
+32,S,"Thấy vui khi được trò chuyện, lắng nghe người khác."
+33,S,Muốn trở thành giáo viên hoặc người hướng dẫn.
+34,S,Chăm sóc trẻ em hoặc người già.
+35,S,Khi làm việc theo nhóm.
+36,S,"Muốn tham gia các hoạt động đoàn, hội, CLB."
+37,S,Khi chia sẻ kinh nghiệm cho người khác.
+38,S,Công việc giúp ích cho cộng đồng.
+39,S,Khuyên nhủ hoặc an ủi bạn bè.
+40,E,Đứng trước lớp để thuyết trình.
+41,E,"Làm lớp trưởng, cán bộ lớp hoặc nhóm trưởng."
+42,E,"Buôn bán nhỏ, kinh doanh với bạn bè."
+43,E,"Khởi nghiệp, mở cửa hàng riêng."
+44,E,"Việc tranh luận, thuyết phục người khác."
+45,E,Tham dự một trại huấn luyện kỹ năng lãnh đạo dành cho lứa tuổi thanh thiếu niên
+46,E,Thuyết phục cha mẹ theo ý mình
+47,E,Tổ chức đi chơi cho một nhóm bạn
+48,E,Kiếm tiền bằng cách làm thêm
+49,E,Tham gia xây dựng các luật lệ mới cho lớp/trường
+50,C,"Làm việc với bảng tính, số liệu."
+51,C,Khi công việc có quy tắc rõ ràng.
+52,C,"Việc ghi chép, sổ sách."
+53,C,Làm thủ quỹ cho lớp
+54,C,Hoàn tất bài tập theo đúng hạn được giao
+55,C,Khi tuân thủ nội quy.
+56,C,Làm nghề kế toán hoặc thư ký.
+57,C,"Sắp xếp công việc gọn gàng, trật tự."
+58,C,"Làm những việc chi tiết, cẩn thận."
+59,C,"Có công việc ổn định, ít thay đổi."
