@@ -1,4 +1,4 @@
-﻿STT,Mã Holland,Nghề,Khối ngành,Nhóm nghề,Lời mở,Giới thiệu chung,Yêu cầu công việc,Kỹ năng cần có,Cơ hội việc làm,Thách thức,Lương tối thiểu - tối đa,Ngành đào tạo
+﻿idnghe,Mã Holland,Nghề,Khối ngành,Nhóm nghề,Lời mở,Giới thiệu chung,Yêu cầu công việc,Kỹ năng cần có,Cơ hội việc làm,Thách thức,Lương tối thiểu - tối đa,Ngành đào tạo
 1,ESC,Nhà Quản trị Nhân sự,QUẢN TRỊ & BÁN HÀNG,Dịch vụ liên quan đến nhân sự,,"Quản trị nhân sự là công tác quản lý nhân sự trong tổ chức, chịu trách nhiệm về các hoạt động tuyển dụng, đào tạo, đánh giá, khen thưởng cho lực lượng lao động nhằm đảm bảo sự phát triển bền vững của doanh nghiệp cũng như sự hài lòng và gắn bó của nhân viên.","Lập kế hoạch, tổ chức và điều hành toàn bộ hoạt động nhân sự trong doanh nghiệp: tuyển dụng, đào tạo, đánh giá hiệu suất, lương thưởng, phúc lợi và xây dựng văn hóa doanh nghiệp. Quản trị chiến lược nhân lực nhằm đảm bảo tổ chức có đội ngũ nhân viên phù hợp, hiệu quả và gắn bó.","Kỹ năng của quản trị nhân sự bao gồm kỹ năng giao tiếp và lắng nghe, tư duy chiến lược và lập kế hoạch, kỹ năng chuyên môn sâu, kỹ năng lãnh đạo, giải quyết vấn đề và xử lý tình huống, cùng với khả năng tạo động lực và chịu áp lực cao. Những kỹ năng này giúp nhà quản trị nhân sự tuyển dụng, phát triển, giữ chân nhân tài và xây dựng môi trường làm việc hiệu quả. 
 - Có tầm nhìn chiến lược, tư duy tổ chức.
 - Linh hoạt, công tâm, hiểu con người.
@@ -1118,3 +1118,4 @@ Ngoài ra, các chứng chỉ chuyên ngành về quản lý thông tin sức kh
 258,ECR,Người nhân pha chế các thức uống có cồn (Barista),KHỐI NGÀNH DỊCH VỤ XÃ HỘI,Dịch vụ cá nhân,,,,,,,,
 259,ECR,Người nhân pha chế các loại đồ uống có cồn (Bartender),KHỐI NGÀNH DỊCH VỤ XÃ HỘI,Dịch vụ cá nhân,,,,,,,,
 260,ECR,Hướng dẫn viên du lịch,KHỐI NGÀNH DỊCH VỤ XÃ HỘI,Dịch vụ cá nhân,,,,,,,,
+
